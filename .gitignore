@@ -7,7 +7,7 @@
 PetImages
 MNIST
 kagglecatsanddogs_3367a.zip
-training_data.npy
+#training_data.npy
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
